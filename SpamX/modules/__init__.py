@@ -9,8 +9,8 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "SpamX"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph//file/08445817174872b47cef8.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "SpamX - by RiZoeLX"
+pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/5ae11cd68886afe7145d2.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else "𝐂ᴅ𝑋sᴘᴀᴍ - ʙʏ ᴛᴇᴀᴍ 𝐂𝐘𝐁𝐄𝐑𝐃𝐑𝐀𝐆𝐎𝐍𝐒"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -25,14 +25,14 @@ class Alive:
 **⁂ {amsg} ⁂**
 
 ━───────╯•╰───────━
-➠ **Master:** {owner_mention}
-➠ **Python Version:** `{platform.python_version()}`
-➠ **SpamX Version:** `{__version__}`
-➠ **Pyrogram Version:** `{pyro_vr}`
-➠ **pyRiZoeLX Version:** `{pip_vr}`
-➠ **Channel:** @RiZoeLX
+➠ **𝐌ʏ 𝐁ᴏss😎:** {owner_mention}
+➠ **🤖𝐏ʏᴛʜᴏɴ 𝐕ᴇʀsɪᴏɴ🤖:** `{platform.python_version()}`
+➠ **🤖𝐂ᴅ𝑋sᴘᴀᴍ 𝐕ᴇʀsɪᴏɴ🤖:** `{__version__}`
+➠ **🤖𝐏ʏʀᴏɢʀᴀᴍ 𝐕ᴇʀsɪᴏɴ🤖:** `{pyro_vr}`
+➠ **ᴘʏ🤖𝐂𝐘𝐁𝐄𝐑𝐃𝐑𝐀𝐆𝐎𝐍 𝐕ᴇʀsɪᴏɴ🤖:** `{pip_vr}`
+➠ **👉𝐂ʜᴀɴɴᴇʟ👈:** @CD_CYBERDRAGONS
 ━───────╮•╭───────━
-➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)
+➠ **⚡⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧⚡⚡:** [•ᴄᴅ sᴜᴘᴘᴏʀᴛ•](https://t.me/CD_CHATS)
      """
 
 handler = HNDLR

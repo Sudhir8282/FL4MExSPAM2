@@ -9,8 +9,8 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "SpamX"
-pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/5ae11cd68886afe7145d2.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "𝐂ᴅ𝑋sᴘᴀᴍ - ʙʏ ᴛᴇᴀᴍ 𝐂𝐘𝐁𝐄𝐑𝐃𝐑𝐀𝐆𝐎𝐍𝐒"
+pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/bb5bb92c56cb71346fd18.mp4"
+amsg = ALIVE_MSG if ALIVE_MSG else "𝐅ʟᴀᴍᴇ𝑋sᴘᴀᴍ - ʙʏ ⚡𝗧𝗘𝗔𝗠 𝐅ʟ𝟒ᴍ𝑬🔥"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -27,12 +27,12 @@ class Alive:
 ━───────╯•╰───────━
 ➠ **𝐌ʏ 𝐁ᴏss😎:** {owner_mention}
 ➠ **🤖𝐏ʏᴛʜᴏɴ 𝐕ᴇʀsɪᴏɴ🤖:** `{platform.python_version()}`
-➠ **🤖𝐂ᴅ𝑋sᴘᴀᴍ 𝐕ᴇʀsɪᴏɴ🤖:** `{__version__}`
+➠ **🤖𝐅ʟᴀᴍᴇ𝑋sᴘᴀᴍ 𝐕ᴇʀsɪᴏɴ🤖:** `{__version__}`
 ➠ **🤖𝐏ʏʀᴏɢʀᴀᴍ 𝐕ᴇʀsɪᴏɴ🤖:** `{pyro_vr}`
-➠ **ᴘʏ🤖𝐂𝐘𝐁𝐄𝐑𝐃𝐑𝐀𝐆𝐎𝐍 𝐕ᴇʀsɪᴏɴ🤖:** `{pip_vr}`
-➠ **👉𝐂ʜᴀɴɴᴇʟ👈:** @CD_CYBERDRAGONS
+➠ **ᴘʏ🤖𝐅𝐋𝐀𝐌𝐄 𝐕ᴇʀsɪᴏɴ🤖:** `{pip_vr}`
+➠ **👉𝐂ʜᴀɴɴᴇʟ👈:** @THE_FLAMEZZ
 ━───────╮•╭───────━
-➠ **⚡⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧⚡⚡:** [•ᴄᴅ sᴜᴘᴘᴏʀᴛ•](https://t.me/CD_CHATS)
+➠ **⚡⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧⚡⚡:** [•ᴄᴅ sᴜᴘᴘᴏʀᴛ•](https://t.me/FLAMEZ_CHAT)
      """
 
 handler = HNDLR

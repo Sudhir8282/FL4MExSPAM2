@@ -13,7 +13,7 @@
 
 <h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/NEONEX_FL4ME"><img src="https://telegra.ph/file/bb5bb92c56cb71346fd18.mp4" width="400"></a></p>
+<p align="center"><a href="https://t.me/NEONEX_FL4ME"><img src="https://te.legra.ph/file/b383908687beb9d584c6c.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS FLAME SPAM BOT, That is the greatest pleasure we have !
@@ -27,7 +27,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/FLAME/FLAMEXSPAM)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/FLAMEXGHUB/FL4MEXSPAM)
 
 
 </details>
